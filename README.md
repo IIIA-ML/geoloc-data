@@ -1,4 +1,4 @@
 # geoloc-data
 Datasets for image geolocalization
 
-Please follow [geoloc](https://github.com/IIIA-ML/geoloc/README.md) for crawling and preparation of the datasets.
+Please see the [IIIA-ML/geoloc repo](https://github.com/IIIA-ML/geoloc) for the crawling and preparation of the datasets.
